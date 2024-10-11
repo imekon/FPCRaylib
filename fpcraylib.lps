@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="fpcraylib.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos X="20" Y="9"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="dbgpanel.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="21"/>
+      </Unit>
+      <Unit>
+        <Filename Value="animator.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="69"/>
+        <CursorPos X="39" Y="3"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="coord.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="4"/>
+        <CursorPos X="20" Y="8"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\Users\goodwin\AppData\Local\lazarus\onlinepackagemanager\packages\Ray4Laz\source\raylib.pas"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="437"/>
+        <CursorPos X="14" Y="465"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="game.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="40"/>
+        <CursorPos Y="72"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ball.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="49"/>
+        <CursorPos X="11" Y="78"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="15">
+      <Position>
+        <Filename Value="fpcraylib.lpr"/>
+        <Caret Line="37" Column="50" TopLine="29"/>
+      </Position>
+      <Position>
+        <Filename Value="fpcraylib.lpr"/>
+        <Caret Line="9" Column="47"/>
+      </Position>
+      <Position>
+        <Filename Value="fpcraylib.lpr"/>
+        <Caret Line="31" Column="20" TopLine="14"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\Users\goodwin\AppData\Local\lazarus\onlinepackagemanager\packages\Ray4Laz\source\raylib.pas"/>
+      </Position>
+      <Position>
+        <Filename Value="fpcraylib.lpr"/>
+        <Caret Line="9" Column="57"/>
+      </Position>
+      <Position>
+        <Filename Value="animator.pas"/>
+        <Caret Line="8" Column="27"/>
+      </Position>
+      <Position>
+        <Filename Value="coord.pas"/>
+        <Caret Line="28" TopLine="3"/>
+      </Position>
+      <Position>
+        <Filename Value="fpcraylib.lpr"/>
+        <Caret Line="58" Column="25" TopLine="25"/>
+      </Position>
+      <Position>
+        <Filename Value="fpcraylib.lpr"/>
+        <Caret Line="13" Column="11"/>
+      </Position>
+      <Position>
+        <Filename Value="game.pas"/>
+        <Caret Line="88" TopLine="54"/>
+      </Position>
+      <Position>
+        <Filename Value="game.pas"/>
+        <Caret Line="8" Column="37"/>
+      </Position>
+      <Position>
+        <Filename Value="ball.pas"/>
+        <Caret Line="16" Column="28"/>
+      </Position>
+      <Position>
+        <Filename Value="ball.pas"/>
+        <Caret Line="41" Column="60" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="ball.pas"/>
+        <Caret Line="20" Column="39"/>
+      </Position>
+      <Position>
+        <Filename Value="ball.pas"/>
+        <Caret Line="31" Column="30"/>
+      </Position>
+      <Position>
+        <Filename Value="ball.pas"/>
+        <Caret Line="29" Column="30" TopLine="13"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
