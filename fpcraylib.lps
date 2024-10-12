@@ -9,7 +9,7 @@
         <Filename Value="fpcraylib.lpr"/>
         <IsPartOfProject Value="True"/>
         <CursorPos X="20" Y="9"/>
-        <UsageCount Value="21"/>
+        <UsageCount Value="22"/>
         <Loaded Value="True"/>
       </Unit>
       <Unit>
@@ -19,32 +19,22 @@
         <WindowIndex Value="-1"/>
         <TopLine Value="-1"/>
         <CursorPos X="-1" Y="-1"/>
-        <UsageCount Value="21"/>
+        <UsageCount Value="22"/>
       </Unit>
       <Unit>
         <Filename Value="animator.pas"/>
         <IsPartOfProject Value="True"/>
-        <IsVisibleTab Value="True"/>
         <EditorIndex Value="3"/>
-        <TopLine Value="69"/>
-        <CursorPos X="39" Y="3"/>
-        <UsageCount Value="21"/>
+        <CursorPos X="35" Y="23"/>
+        <UsageCount Value="22"/>
         <Loaded Value="True"/>
       </Unit>
       <Unit>
         <Filename Value="coord.pas"/>
         <IsPartOfProject Value="True"/>
-        <EditorIndex Value="4"/>
-        <CursorPos X="20" Y="8"/>
-        <UsageCount Value="21"/>
-        <Loaded Value="True"/>
-      </Unit>
-      <Unit>
-        <Filename Value="C:\Users\goodwin\AppData\Local\lazarus\onlinepackagemanager\packages\Ray4Laz\source\raylib.pas"/>
         <EditorIndex Value="5"/>
-        <TopLine Value="437"/>
-        <CursorPos X="14" Y="465"/>
-        <UsageCount Value="10"/>
+        <CursorPos X="20" Y="8"/>
+        <UsageCount Value="22"/>
         <Loaded Value="True"/>
       </Unit>
       <Unit>
@@ -53,7 +43,7 @@
         <EditorIndex Value="1"/>
         <TopLine Value="40"/>
         <CursorPos Y="72"/>
-        <UsageCount Value="21"/>
+        <UsageCount Value="22"/>
         <Loaded Value="True"/>
       </Unit>
       <Unit>
@@ -62,11 +52,29 @@
         <EditorIndex Value="2"/>
         <TopLine Value="49"/>
         <CursorPos X="11" Y="78"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\Users\goodwin\AppData\Local\lazarus\onlinepackagemanager\packages\Ray4Laz\source\raylib.pas"/>
+        <EditorIndex Value="6"/>
+        <TopLine Value="437"/>
+        <CursorPos X="14" Y="465"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="animations.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="4"/>
+        <CursorPos X="5" Y="34"/>
         <UsageCount Value="21"/>
         <Loaded Value="True"/>
       </Unit>
     </Units>
-    <JumpHistory HistoryIndex="15">
+    <JumpHistory HistoryIndex="20">
       <Position>
         <Filename Value="fpcraylib.lpr"/>
         <Caret Line="37" Column="50" TopLine="29"/>
@@ -129,6 +137,26 @@
       <Position>
         <Filename Value="ball.pas"/>
         <Caret Line="29" Column="30" TopLine="13"/>
+      </Position>
+      <Position>
+        <Filename Value="animations.pas"/>
+        <Caret Line="17" Column="30"/>
+      </Position>
+      <Position>
+        <Filename Value="animations.pas"/>
+        <Caret Line="26" Column="3"/>
+      </Position>
+      <Position>
+        <Filename Value="animations.pas"/>
+        <Caret Line="8" Column="44"/>
+      </Position>
+      <Position>
+        <Filename Value="animations.pas"/>
+        <Caret Line="17" Column="35"/>
+      </Position>
+      <Position>
+        <Filename Value="animations.pas"/>
+        <Caret Line="34" Column="14"/>
       </Position>
     </JumpHistory>
     <RunParams>

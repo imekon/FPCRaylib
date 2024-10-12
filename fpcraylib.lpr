@@ -6,7 +6,7 @@ uses
   {$IFDEF UNIX}
   cthreads,
   {$ENDIF}
-  Classes, SysUtils, RayLib, dbgpanel, animator, coord, game, ball;
+  Classes, SysUtils, RayLib, dbgpanel, animator, coord, game, ball, animations;
 
 var
   Application: TFPCGame;
